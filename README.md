@@ -1,0 +1,2 @@
+# microgpt_for_learner
+这是一个为教学目的设计的GPT（生成式预训练Transformer）实现，包含详细的代码注释和说明，帮助初学者理解GPT的核心原理。
